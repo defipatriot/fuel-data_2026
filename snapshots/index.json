@@ -1,9 +1,9 @@
 {
-  "latest": "2026-06-02",
+  "latest": "2026-06-03",
   "daily": {
     "monday": "2026-06-01",
     "tuesday": "2026-06-02",
-    "wednesday": "2026-05-27",
+    "wednesday": "2026-06-03",
     "thursday": "2026-05-28",
     "friday": "2026-05-29",
     "saturday": "2026-05-30",
@@ -519,6 +519,16 @@
       "avgPrice": 0.00327799,
       "avgTvlUsd": 58862.98,
       "dailyVolumeLuna": 0.226348
+    },
+    {
+      "date": "2026-06-03",
+      "openPrice": 0.003184802769682439,
+      "highPrice": 0.003258735424280134,
+      "lowPrice": 0.003133802501635969,
+      "closePrice": 0.003206224881439418,
+      "avgPrice": 0.00322354,
+      "avgTvlUsd": 57470.87,
+      "dailyVolumeLuna": 0
     }
   ],
   "latestPrice": 0.003225577668404689,
