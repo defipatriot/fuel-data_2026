@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "cron": "fuel",
-  "capturedAt": "2026-06-14T11:50:22.851Z",
-  "capturedAtUnix": 1781437822851,
-  "runId": "fuel-20260614115022",
+  "capturedAt": "2026-06-14T12:51:05.980Z",
+  "capturedAtUnix": 1781441465980,
+  "runId": "fuel-20260614125105",
   "runMode": "hourly",
   "status": "ok",
   "stats": {
-    "price_usd": 0.002987320652695046,
-    "tvl_usd": 53258.3,
+    "price_usd": 0.002980575043844931,
+    "tvl_usd": 53618.4,
     "vol_24h_luna": 0
   },
-  "next_expected_run_at": "2026-06-14T13:05:22.851Z"
+  "next_expected_run_at": "2026-06-14T14:06:05.980Z"
 }
