@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "cron": "fuel",
+  "capturedAt": "2026-06-17T00:23:23.740Z",
+  "capturedAtUnix": 1781655803740,
+  "runId": "fuel-20260617002323",
+  "runMode": "hourly",
+  "status": "ok",
+  "stats": {
+    "price_usd": 0.003106501958741606,
+    "tvl_usd": 55943.5,
+    "vol_24h_luna": 0
+  },
+  "next_expected_run_at": "2026-06-17T01:38:23.740Z"
+}
